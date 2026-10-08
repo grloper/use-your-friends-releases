@@ -18,8 +18,10 @@
 
 A squishy co-op physics party game where the only tools you have are **each other**. Become a bridge, bounce your friends up a cliff, or get yeeted through a candy wall. Reach the escape rocket together… unless your bridge suddenly decides to stop being a bridge.
 
-- **Be useful.** Turn into a **plank**, a **trampoline**, a **cannonball**, a **sticky** splat or a **balloon**.
-- **Be suspicious.** Every bridge is a promise. Every betrayal gets a slow-motion replay.
+- **Earn your toolkit.** Start with a plank and trampoline. Beat levels to unlock the cannonball, sticky splat and balloon—and earn hats worth showing off.
+- **Put friendship to work.** Seven levels, including **Sour Science Lab** and **Twin Tracks**: hold your friend's door, power their portal and be their counterweight.
+- **Hear the panic.** Opt-in online proximity voice: hold **T / L3** to talk, with mute controls and muffled Ball voices.
+- **Keep the receipts.** Slow-motion betrayal replays and opt-in five-second automatic captures. Captures are silent image sequences; an external ffmpeg encoder enables MP4 export.
 - **Hurry.** The goo is rising, and it does not care whose fault it was.
 
 <p align="center">
@@ -32,9 +34,14 @@ A squishy co-op physics party game where the only tools you have are **each othe
 </p>
 <p align="center"><i>Be the bridge. Break the trust. Boing. Repeat.</i></p>
 
+<p align="center">
+  <img src="screenshots/unlocks.png" alt="New unlock celebration showing the next course, Ball form, Angel Halo and Golden Crown" width="840"><br>
+  <i>v0.8.0: real unlock celebrations. Screenshot from an automated test run.</i>
+</p>
+
 ## Bring your least reliable friends
 
-Play on one PC with keyboards and controllers, or online: one friend presses **HOST ONLINE** and gets a 6-letter **room code**, everyone else presses **JOIN ONLINE** and types it. Most home networks connect directly; if yours refuses, the game tells you, and [Tailscale](https://tailscale.com/download) (free) or the same Wi-Fi works.
+Play on one PC with keyboards and controllers, or online: one friend presses **HOST ONLINE** and gets a 6-letter **room code**, everyone else presses **JOIN ONLINE** and types it. Direct connections depend on both routers and ISPs; if yours refuses, try [Tailscale](https://tailscale.com/download) (free) or the same Wi-Fi. Voice is unencrypted—use trusted rooms. Sour Science Lab and Twin Tracks require at least two players.
 
 ## Install
 
