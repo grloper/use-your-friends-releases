@@ -18,6 +18,7 @@
 
 A squishy co-op physics party game where the only tools you have are **each other**. Become a bridge, bounce your friends up a cliff, or get yeeted through a candy wall. Reach the escape rocket together… unless your bridge suddenly decides to stop being a bridge.
 
+- **Solo, not alone.** Add up to three optional AI friends in the lobby. They follow, hold pressure plates and become tools—command-assisted teammates, not automatic all-level solvers. **I / gamepad Y** adds; **F8 / paused Y** opens orders. [AI controls and limits](AI_FRIENDS.md).
 - **Earn your toolkit.** Start with a plank and trampoline. Beat levels to unlock the cannonball, sticky splat and balloon—and earn hats worth showing off.
 - **Put friendship to work.** Seven levels, including **Sour Science Lab** and **Twin Tracks**: hold your friend's door, power their portal and be their counterweight.
 - **Hear the panic.** Opt-in online proximity voice: hold **T / L3** to talk, with mute controls and muffled Ball voices.
@@ -37,6 +38,11 @@ A squishy co-op physics party game where the only tools you have are **each othe
 <p align="center">
   <img src="screenshots/unlocks.png" alt="New unlock celebration showing the next course, Ball form, Angel Halo and Golden Crown" width="840"><br>
   <i>v0.8.0: real unlock celebrations. Screenshot from an automated test run.</i>
+</p>
+
+<p align="center">
+  <img src="screenshots/ai-orders.png" alt="v0.9.0 AI orders panel: follow, hold here, help with puzzle and earned tool selection" width="840"><br>
+  <i>Solo, not alone: optional command-assisted AI friends. Actual game screenshot.</i>
 </p>
 
 ## Bring your least reliable friends
