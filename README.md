@@ -50,6 +50,24 @@ A squishy co-op physics party game where the only tools you have are **each othe
 
 Play on one PC with keyboards and controllers, or online: one friend presses **HOST ONLINE** and gets a 6-letter **room code**, everyone else presses **JOIN ONLINE** and types it. Direct connections depend on both routers and ISPs; if yours refuses, try [Tailscale](https://tailscale.com/download) (free) or the same Wi-Fi. Voice is unencrypted—use trusted rooms. Sour Science Lab and Twin Tracks require at least two players.
 
+## Download
+
+**Latest version: v0.10.0** · [Always get the newest release](https://github.com/grloper/use-your-friends-releases/releases/latest) · [All releases](https://github.com/grloper/use-your-friends-releases/releases)
+
+| File | What it is |
+|------|------------|
+| [`UseYourFriends-Setup-v0.10.0.exe`](https://github.com/grloper/use-your-friends-releases/releases/download/v0.10.0/UseYourFriends-Setup-v0.10.0.exe) | Windows installer, recommended. No admin rights needed; the game updates itself. |
+| [`UseYourFriends-v0.10.0-Win64-portable.zip`](https://github.com/grloper/use-your-friends-releases/releases/download/v0.10.0/UseYourFriends-v0.10.0-Win64-portable.zip) | Portable build, no installer and no auto-update. |
+| [`UseYourFriends-Setup-v0.10.0.exe.sha256`](https://github.com/grloper/use-your-friends-releases/releases/download/v0.10.0/UseYourFriends-Setup-v0.10.0.exe.sha256) | SHA-256 checksum for the installer. |
+
+**Requirements:** Windows 10/11 · 1–4 players on one PC (keyboards and controllers) or online co-op.
+
+Later releases use the same file names with their own version number. If this table is behind, the [latest release](https://github.com/grloper/use-your-friends-releases/releases/latest) page is authoritative.
+
+## Release notes
+
+[v0.10.0](RELEASE_NOTES_v0.10.0.md) · [v0.9.2](RELEASE_NOTES_v0.9.2.md) · [v0.9.1](RELEASE_NOTES_v0.9.1.md) · [v0.9.0](RELEASE_NOTES_v0.9.0.md) · [v0.8.0](RELEASE_NOTES_v0.8.0.md)
+
 ## Install
 
 1. Download **UseYourFriends-Setup-vX.Y.Z.exe** from the [latest release](https://github.com/grloper/use-your-friends-releases/releases/latest) and run it. No admin rights needed.
@@ -57,5 +75,11 @@ Play on one PC with keyboards and controllers, or online: one friend presses **H
 3. From then on the game **updates itself**: an **UPDATE!** button appears on the main menu when there is a new version.
 
 Prefer no installer? Every release also has a portable `.zip` (no auto-update).
+
+### Troubleshooting
+
+- **"Windows protected your PC":** expected for the unsigned playtest build; click **More info → Run anyway**.
+- **Can't connect online:** direct connections depend on both routers and ISPs. Try [Tailscale](https://tailscale.com/download) (free) or the same Wi-Fi.
+- **No UPDATE! button:** the portable `.zip` does not auto-update; download the newest release instead.
 
 <p align="center"><sub>Free playtest, still in development. Expect rough edges. Blame your friends.</sub></p>
