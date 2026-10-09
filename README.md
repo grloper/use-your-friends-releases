@@ -18,8 +18,8 @@
 
 A squishy co-op physics party game where the only tools you have are **each other**. Become a bridge, bounce your friends up a cliff, or get yeeted through a candy wall. Reach the escape rocket together… unless your bridge suddenly decides to stop being a bridge.
 
-- **Night Shift (New).** Procedural facility runs. Contracts, catches, patrolling threats, cargo hauling, and extraction to the Escape Van before the Dawn Bell. [v0.13 release notes](RELEASE_NOTES_v0.13.0.md).
-- **Chapter 1: INTAKE.** The first full story campaign chapter. Squeeze through narrow bars by Gulping keys, cross deep vats with Snap-Back, and stop The Mixer. [v0.12 release notes](RELEASE_NOTES_v0.12.0.md).
+- **Important prototype correction.** v0.13 Night Shift is a fixed greybox; its contract generator is not wired to level geometry, threats are not spawned, and extraction can finish at spawn without cargo. [Corrected v0.13 notes](RELEASE_NOTES_v0.13.0.md).
+- **INTAKE is unfinished.** v0.12 contains props and helper components, but player-triggered Gulp/Snap-Back, item locks and a traversable mixer route are not implemented yet. [Corrected v0.12 notes](RELEASE_NOTES_v0.12.0.md).
 - **Read the room.** Caramel notches show where a bridge belongs; pink rings mark your launch pads. Dropping a riding friend now takes a 0.5s hold, with a 1-second OOPS window to cancel accidental betrayals. [v0.11 release notes](RELEASE_NOTES_v0.11.0.md).
 - **Throw it your way.** Tap Grab/Throw for a forward throw; hold for 0.3 seconds and release for a higher lob. A carried player escapes with one Jump press after a short grace period. [v0.10 foundations notes](RELEASE_NOTES_v0.10.0.md)—new story chapters and generated runs are still in development.
 - **Solo, not alone.** Add up to three optional AI friends in the lobby. They follow, hold pressure plates and become tools—command-assisted teammates, not automatic all-level solvers. **I / gamepad Y** adds; **F8 / paused Y** opens orders. [AI controls and limits](AI_FRIENDS.md).
