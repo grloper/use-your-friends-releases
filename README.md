@@ -18,6 +18,7 @@
 
 A squishy co-op physics party game where the only tools you have are **each other**. Become a bridge, bounce your friends up a cliff, or get yeeted through a candy wall. Reach the escape rocket together… unless your bridge suddenly decides to stop being a bridge.
 
+- **Throw it your way.** Tap Grab/Throw for a forward throw; hold for 0.3 seconds and release for a higher lob. A carried player escapes with one Jump press after a short grace period. [v0.10 foundations notes](RELEASE_NOTES_v0.10.0.md)—new story chapters and generated runs are still in development.
 - **Solo, not alone.** Add up to three optional AI friends in the lobby. They follow, hold pressure plates and become tools—command-assisted teammates, not automatic all-level solvers. **I / gamepad Y** adds; **F8 / paused Y** opens orders. [AI controls and limits](AI_FRIENDS.md).
 - **Earn your toolkit.** Start with a plank and trampoline. Beat levels to unlock the cannonball, sticky splat and balloon—and earn hats worth showing off.
 - **Put friendship to work.** Seven levels, including **Sour Science Lab** and **Twin Tracks**: hold your friend's door, power their portal and be their counterweight.
